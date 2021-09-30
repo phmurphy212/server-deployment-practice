@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest --coverage",
     "start": "node index.js"
   },
   "repository": {
@@ -20,6 +20,8 @@
   "homepage": "https://github.com/phmurphy212/server-deployment-practice#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jest": "^27.2.3",
+    "supertest": "^6.1.6"
   }
 }
