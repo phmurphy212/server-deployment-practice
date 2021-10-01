@@ -11,6 +11,8 @@
 
 Just getting back into the swing of things to make sure we can deploy a backend server effectively
 
+[Most recent PR to main:](https://github.com/phmurphy212/server-deployment-practice/pull/5/)
+
 ### Sample .env values
 
 * PORT
@@ -32,5 +34,16 @@ Start time: 1:30
 Finish time: 4:00
 
 Actual time needed to complete: 2:30
+________________________________
+
+Name of feature: Server Tests
+
+Estimate of time needed to complete: 3 hours
+
+Start time: 7:00
+
+Finish time: 10:00
+
+Actual time needed to complete: 3:00
 
 ________________________________
